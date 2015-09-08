@@ -1,6 +1,6 @@
 ## DAT ATL 1 Course Repository
 
-Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/atlanta) in Atlanta (9/8/15 - 19/15).
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/atlanta) in Atlanta (9/8/15 - 11/19/15)
 
 **Instructor:** [Mike Galvin] (https://generalassemb.ly/instructors/michael-galvin/5706)
 
@@ -8,15 +8,14 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 Week | Tuesday | Thursday
 --- | --- | ---
- 1 | 9/8: Introduction to Data Science | 3/10: Python for Data Science
- 2 | 3/15: Machine Learning and Linear Regression | 3/17: KNN
- 3 | 3/22: Logistic Regression | 3/24: Cross-Validation
- 4 | 3/29: Regularization | 10/1: Clustering 
+ 1 | 9/8: Introduction to Data Science | 9/10: Python for Data Science
+ 2 | 9/15: Machine Learning and Linear Regression | 9/17: KNN 
+ 3 | 9/22: Logistic Regression <br>**Project Milestone:** [Project Proposal]| 9/24: Cross-Validation <br>**Project Milestone:** [Elevator Pitch]
  5 | 10/6: Naive Bayes | 10/8: ROC Curves, AUC, & Imbalanced Classes 
  6 | 10/13: Decision Trees | 10/15: Ensembles, Random Foreset
  7 | 10/20: Boosting | 10/22: Support Vector Machines
- 8 | 10/27: Dimensionality Reduction | 10/29: Text Analysis
- 9 | 11/3: TBD| 11/5: TBD
+ 8 | 10/27: Dimensionality Reduction <br>**Project Milestone:** [First Draft] | 10/29: Text Analysis
+ 9 | 11/3: TBD <br>**Project Milestone:** [Peer Feedback]| 11/5: TBD
 10 | 11/10: TBD| 11/12: Course Review, Next Steps
 11 | **11/17:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **11/19:** Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
 
