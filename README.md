@@ -12,10 +12,10 @@ Week | Tuesday | Thursday
  2 | 9/15: Machine Learning and Linear Regression | 9/17: KNN 
  3 | 9/22: Logistic Regression <br>**Project Milestone:** [Project Proposal]| 9/24: Cross-Validation <br>**Project Milestone:** [Elevator Pitch]
  5 | 10/6: Naive Bayes | 10/8: ROC Curves, AUC, & Imbalanced Classes 
- 6 | 10/13: Decision Trees | 10/15: Ensembles, Random Foreset
- 7 | 10/20: Boosting | 10/22: Support Vector Machines
- 8 | 10/27: Dimensionality Reduction <br>**Project Milestone:** [First Draft] | 10/29: Text Analysis
- 9 | 11/3: TBD <br>**Project Milestone:** [Peer Feedback]| 11/5: TBD
+ 6 | 10/13: Decision Trees | 10/15: Bias, Variance, CoD
+ 7 | 10/20: Ensembles, Random Forest | 10/22: Boosting
+ 8 | 10/27: Support Vector Machines <br>**Project Milestone:** [First Draft] | 10/29: Dimensionality Reduction
+ 9 | 11/3: Text Analysis <br>**Project Milestone:** [Peer Feedback]| 11/5: TBD
 10 | 11/10: TBD| 11/12: Course Review, Next Steps
 11 | **11/17:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **11/19:** Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
 
@@ -23,6 +23,11 @@ Week | Tuesday | Thursday
 
 Please submit completed homework assignments by pushing them to your homework repo under your own userid and then telling us where to find your homework via the homework submission form
 
+* Data exploration
+* Regression 
+* Classification
+* Naive Bayes
+* Advanced
 
 ### Communication
 
