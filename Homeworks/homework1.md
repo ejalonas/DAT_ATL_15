@@ -1,4 +1,7 @@
+# Homework 1
+
 This homework assignment will use the titanic_train data set found in the dataset folder. You will have a week to complete this assignment. Do all your analysis and answer the questions within a Jupyter notebook. Put the notebook in your GitHub's homework repository.
+
 1. Read the titanic data set into a pandas dataframe.
 2. Look at the first 5 rows.
 3. What is the size of the data set? (rows and columns)
