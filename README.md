@@ -10,9 +10,10 @@ Week | Tuesday | Thursday
 --- | --- | ---
  1 | 9/8: Introduction to Data Science | 9/10: Python for Data Science
  2 | 9/15: Machine Learning and Linear Regression | 9/17: KNN 
- 3 | 9/22: Logistic Regression <br>**Project Milestone:** [Project Proposal]| 9/24: Cross-Validation <br>**Project Milestone:** [Elevator Pitch]
- 5 | 10/6: Naive Bayes | 10/8: ROC Curves, AUC, & Imbalanced Classes 
- 6 | 10/13: Decision Trees | 10/15: Bias, Variance, CoD
+ 3 | 9/22:  Cross Validation, Bias-Variance, CoD <br>**Project Milestone:** [Project Proposal]| 9/24: Regularization: Lasso & Ridge <br>**Project Milestone:** [Elevator Pitch]
+ 4 | 9/29 Logistic Regression | 10/1: Clustering
+ 5 | 10/6: Naive Bayes | 10/8: Decision Trees 
+ 6 | 10/13: Metrics: ROC Curves, AUC, & Imbalanced Classes  | 10/15: Review
  7 | 10/20: Ensembles, Random Forest | 10/22: Boosting
  8 | 10/27: Support Vector Machines <br>**Project Milestone:** [First Draft] | 10/29: Dimensionality Reduction
  9 | 11/3: Text Analysis <br>**Project Milestone:** [Peer Feedback]| 11/5: TBD
@@ -21,9 +22,9 @@ Week | Tuesday | Thursday
 
 ### Homework Schedule
 
-Please submit completed homework assignments by pushing them to your homework repo under your own userid and then telling us where to find your homework via the homework submission form
+Please submit completed homework assignments by pushing them to your homework repo under your own userid and then telling us where to find your homework via the [homework submission form](https://docs.google.com/forms/d/17JsuKz8q41ByDJwZ75lnWBxDbY0Kj3wYIZdlsOgU18U/viewform)
 
-* Data exploration
+* Data exploration Due 9/19
 * Regression 
 * Classification
 * Naive Bayes
